@@ -1,0 +1,1 @@
+Instalando o GIT através da página de internet principal usando o terminal do linux para realizar o download e instalação dos pacotes. Depois configuramos com o nome e o email padrão.

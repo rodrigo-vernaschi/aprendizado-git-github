@@ -1,0 +1,1 @@
+Principais comandos do terminal do linux, como 'ls' para listar, 'touch' para criar um arquivo novo.

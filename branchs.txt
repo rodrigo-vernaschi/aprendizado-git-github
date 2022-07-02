@@ -1,0 +1,1 @@
+Branchs são variações do mesmo projeto que podem ser modificadas livremente independente do código original.

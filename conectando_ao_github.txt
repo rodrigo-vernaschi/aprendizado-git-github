@@ -1,0 +1,1 @@
+Criando a conta no GitHub, criando um repositório vazio novo, clonando o repositório para a máquina, realizando as modificações, fazendo o commit local, enviando as modificações para o repositório online usando o 'push'.
